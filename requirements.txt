@@ -1,5 +1,6 @@
-streamlit[snowflake]
+streamlit
 pandas
 snowflake-snowpark-python
 snowflake-cortex
 matplotlib
+
